@@ -1,4 +1,23 @@
 /* Global Styles */
+ body {
+            background-color: #FFD1AA;
+            font-size: 18px;
+        }
+        h1{
+            color:#003333;
+        }
+        h2{
+            color:#162955;
+        }
+        .endangered {
+            color:red;
+        }
+        .threatened {
+            color:OrangeRed;
+        }
+        .scientific-name{ 
+            font-style:italic;
+        }
 body {
     font-family: Arial, sans-serif;
 }
